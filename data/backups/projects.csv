@@ -1,0 +1,8 @@
+project_id,project_name,domain,complexity,technologies,start_date,end_date
+"proj-101","Payment Checkout UI Refactor","Fintech & Payment Security","5","React|TypeScript|Tailwind CSS","2026-01-10","2026-06-30"
+"proj-102","Global Payment Gateway Microservice","Fintech & Payment Security","5","Node.js|PostgreSQL|GraphQL","2026-02-01","2026-08-15"
+"proj-103","Real-Time Fraud Analytics Engine","Data & AI","4","Python|PostgreSQL","2026-03-15","2026-09-01"
+"proj-104","Cloud Vault Security Hardening","Cloud Architecture & DevOps","5","AWS Cloud|Docker & Kubernetes","2026-04-01","2026-09-20"
+"proj-105","Design System React Component Library","Frontend & UI Frameworks","4","React|TypeScript|Tailwind CSS","2025-09-01","2026-01-30"
+"proj-9452","Zero-Trust Vault Protocol","Information Security","5","AWS Cloud|Fintech & Payment Security","2026-10-15","2027-03-29"
+"proj-7945","ai powered","Data & AI","4","React|TypeScript|Node.js","2026-09-30","2027-03-29"

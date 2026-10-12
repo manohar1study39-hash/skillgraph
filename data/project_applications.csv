@@ -1,0 +1,4 @@
+application_id,opportunity_id,opportunity_type,employee_id,employee_name,note,hours_per_week,applied_at,status
+"app-790188","role-role-fintech-app-lead","project","emp-1","Alex Chen (Employee)","Applied via marketplace matching engine.","26.0","2026-10-11","Pending"
+"app-340619","proj-101","project","emp-1","Alex Chen (Employee)","Hi team, I would love to contribute to Payment Checkout UI Refactor. I have verified experience with the required stack and currently have 26 hrs/week available.","20.0","2026-10-11","Withdrawn"
+"app-emp-user-1791609711598","proj-102","Project","emp-1","Alex Chen (Employee)","Excited to contribute to global payment gateway microservices.","10.0","2026-10-12","Accepted"

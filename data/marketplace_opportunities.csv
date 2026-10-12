@@ -1,0 +1,10 @@
+opportunity_id,opportunity_type,project_name,role_title,project_id,role_id
+"proj-101","project","Payment Checkout UI Refactor","","proj-101",""
+"proj-102","project","Global Payment Gateway Microservice","","proj-102",""
+"proj-103","project","Real-Time Fraud Analytics Engine","","proj-103",""
+"proj-104","project","Cloud Vault Security Hardening","","proj-104",""
+"proj-105","project","Design System React Component Library","","proj-105",""
+"role-fintech-app-lead","role","NextGen React + Node.js Fintech App","Lead Architect","","role-fintech-app-lead"
+"role-ai-analytics","role","Real-Time Financial Analytics Portal","Senior Engineer","","role-ai-analytics"
+"role-cloud-sec","role","Payment Vault Hardening","Cloud Security Architect","","role-cloud-sec"
+"role-frontend-lead","role","Design System Core","Staff Frontend Engineer","","role-frontend-lead"

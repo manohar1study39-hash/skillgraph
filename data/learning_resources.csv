@@ -1,0 +1,26 @@
+resource_id,skill_id,title,provider,type,duration_weeks,target_level,mentor_employee_id
+"res-1","skill-react","Advanced React 18 & State Hygiene Masterclass","Coursera","course","2","Advanced","emp-2"
+"res-2","skill-node","High-Scale Node.js Microservices Architecture","Udemy","course","3","Expert","emp-1"
+"res-3","skill-fintech","PCI-DSS Compliance & Payment Gateway Protocol","Internal Academy","cert","2","Advanced","emp-1"
+"res-4","skill-aws","AWS Cloud Security & Key Vault Rotation","AWS Training","cert","3","Expert","emp-4"
+"res-5","skill-python","Streaming Data Pipelines with Python & PyTorch","DataCamp","course","2","Advanced",""
+"res-6","skill-react","Build a production checkout interface","Internal Project","project","3","Expert","emp-2"
+"res-7","skill-node","Payments service pairing","Engineering Mentorship","mentor","2","Expert","emp-1"
+"res-8","skill-fintech","PCI DSS assessor certification","Internal Academy","cert","2","Expert","emp-1"
+"res-9478","skill-aws","Zero-Trust Cloud Architecture Workshop","Internal Academy","course","3","Expert","emp-4"
+"res-4005","skill-docker","microservices","Internal Academy","project","2","Advanced",""
+res-advanced-pytest,skill-python,Advanced Pytest,Internal Academy,course,2.0,Expert,
+res-1791816463259-782b86,skill-k8s,Kubernetes & Cloud Native Systems Track,Internal Academy,course,3.0,Advanced,
+res-1791816495429-1ce81e,skill-python,Manager Python Track,Internal Academy,course,2.0,Advanced,
+res-1791816495507-efeb94,skill-kubernetes,E2E Masterclass on Kubernetes Architecture,Cloud Native Academy,bootcamp,4.0,Master,
+res-1791816495564-8cec83,skill-golang,Manager Certified Go Microservices Intensive,Engineering Guild,workshop,3.0,Advanced,
+res-advanced-pytest,skill-python,Advanced Pytest,Internal Academy,course,2.0,Expert,
+res-1791817231470-374684,skill-python,Manager Python Track,Internal Academy,course,2.0,Advanced,
+res-1791817231515-5869bd,skill-kubernetes,E2E Masterclass on Kubernetes Architecture,Cloud Native Academy,bootcamp,4.0,Master,
+res-1791817231553-2aab3a,skill-golang,Manager Certified Go Microservices Intensive,Engineering Guild,workshop,3.0,Advanced,
+res-advanced-pytest,skill-python,Advanced Pytest,Internal Academy,course,2.0,Expert,
+res-1791817423919-fff55c,skill-python,Manager Python Track,Internal Academy,course,2.0,Advanced,
+res-1791817423987-527f53,skill-kubernetes,E2E Masterclass on Kubernetes Architecture,Cloud Native Academy,bootcamp,4.0,Master,
+res-1791817424054-ed1667,skill-golang,Manager Certified Go Microservices Intensive,Engineering Guild,workshop,3.0,Advanced,
+res-advanced-pytest,skill-python,Advanced Pytest,Internal Academy,course,2.0,Expert,
+res-advanced-pytest,skill-python,Advanced Pytest,Internal Academy,course,2.0,Expert,

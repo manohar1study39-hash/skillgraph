@@ -1,0 +1,470 @@
+hashed_id,skill_id,old_level,new_level,points,reason
+70e71d2c5499,skill-react,5 Expert,1 Aware,2.4,Accumulated 2.4 points with recency decay qualifying for Level 1 (Aware)
+70e71d2c5499,skill-ts,5 Expert,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+70e71d2c5499,skill-node,4 Advanced,1 Aware,2.3,Accumulated 2.3 points with recency decay qualifying for Level 1 (Aware)
+7f66eb9e5978,skill-node,5 Expert,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+7f66eb9e5978,skill-fintech,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+7f66eb9e5978,skill-postgres,5 Expert,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+7f66eb9e5978,skill-react,1 Aware,1 Aware,2.0,Points 2.0 aligns with 1 Aware threshold
+3bd18262f748,skill-aws,5 Expert,2 Guided,4.8,Accumulated 4.8 points with recency decay qualifying for Level 2 (Guided)
+3bd18262f748,skill-node,4 Advanced,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+3bd18262f748,skill-fintech,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+3bd18262f748,skill-react,2 Guided,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+afff063b44e6,skill-tail,5 Expert,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+afff063b44e6,skill-fintech,2 Guided,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+efc55e2c1e96,skill-node,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+efc55e2c1e96,skill-fintech,4 Advanced,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+efc55e2c1e96,skill-react,2 Guided,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+ec0bdd0f86ae,skill-node,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+ec0bdd0f86ae,skill-postgres,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+208300411fc2,skill-react,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+208300411fc2,skill-fintech,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+208300411fc2,skill-node,2 Guided,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+3e7c8db22b51,skill-ts,5 Expert,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+3e7c8db22b51,skill-python,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+f5aed48574b2,skill-postgres,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+f5aed48574b2,skill-docker,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+144c6f83387f,skill-node,5 Expert,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+144c6f83387f,skill-fintech,4 Advanced,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+144c6f83387f,skill-react,2 Guided,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+0aa16c4efc96,skill-python,4 Advanced,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+0aa16c4efc96,skill-tail,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+c28e88d6c2d1,skill-docker,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+c28e88d6c2d1,skill-react,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+ad1778ee3c50,skill-react,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+ad1778ee3c50,skill-fintech,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+ad1778ee3c50,skill-node,2 Guided,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+4328a8ed7f04,skill-tail,5 Expert,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+4328a8ed7f04,skill-fintech,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+2ef5b28d795b,skill-node,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+2ef5b28d795b,skill-fintech,4 Advanced,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+2ef5b28d795b,skill-react,2 Guided,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+e5ef62dce1eb,skill-node,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+e5ef62dce1eb,skill-postgres,2 Guided,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+2245c6cd56cb,skill-fintech,4 Advanced,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+2245c6cd56cb,skill-aws,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+29f1af296e18,skill-ts,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+29f1af296e18,skill-python,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+33b738470de1,skill-react,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+33b738470de1,skill-fintech,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+33b738470de1,skill-node,2 Guided,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+8aa5860dbd84,skill-node,5 Expert,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+8aa5860dbd84,skill-fintech,4 Advanced,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+8aa5860dbd84,skill-react,2 Guided,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+7b786e825c7e,skill-python,4 Advanced,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+7b786e825c7e,skill-tail,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+2e6284e0f6d8,skill-docker,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+2e6284e0f6d8,skill-react,2 Guided,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+fd1b37c5f039,skill-graphql,4 Advanced,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+fd1b37c5f039,skill-node,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+86618b391f4d,skill-tail,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+86618b391f4d,skill-fintech,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+ff80f68a4eae,skill-node,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+ff80f68a4eae,skill-fintech,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+ff80f68a4eae,skill-react,2 Guided,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+ee702b15c326,skill-node,5 Expert,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+ee702b15c326,skill-postgres,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+3c64291c894b,skill-fintech,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+3c64291c894b,skill-aws,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+4e0418cc84c5,skill-ts,5 Expert,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+4e0418cc84c5,skill-python,2 Guided,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+9c87656e2c9b,skill-postgres,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+9c87656e2c9b,skill-docker,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+aea13edbb26f,skill-node,5 Expert,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+aea13edbb26f,skill-fintech,4 Advanced,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+aea13edbb26f,skill-react,2 Guided,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+01b68911a7ad,skill-react,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+01b68911a7ad,skill-fintech,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+01b68911a7ad,skill-node,2 Guided,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+89a05457d116,skill-docker,5 Expert,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+89a05457d116,skill-react,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+a148a1451060,skill-graphql,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+a148a1451060,skill-node,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+940e8fc56813,skill-tail,5 Expert,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+940e8fc56813,skill-fintech,2 Guided,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+84bcf5eeb491,skill-node,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+84bcf5eeb491,skill-fintech,4 Advanced,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+84bcf5eeb491,skill-react,2 Guided,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+99f986be2a1d,skill-node,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+99f986be2a1d,skill-postgres,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+63735bad5516,skill-react,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+63735bad5516,skill-fintech,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+63735bad5516,skill-node,2 Guided,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+f8883a2183de,skill-ts,5 Expert,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+f8883a2183de,skill-python,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+f790cb1c6bbb,skill-postgres,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+f790cb1c6bbb,skill-docker,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+e7dd6cee1d66,skill-node,5 Expert,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+e7dd6cee1d66,skill-fintech,4 Advanced,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+e7dd6cee1d66,skill-react,2 Guided,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+28aecfe4aeac,skill-python,4 Advanced,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+28aecfe4aeac,skill-tail,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+6bc102c73d0f,skill-docker,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+6bc102c73d0f,skill-react,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+9460044ae1ee,skill-react,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+9460044ae1ee,skill-fintech,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+9460044ae1ee,skill-node,2 Guided,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+dc39c034c52d,skill-tail,5 Expert,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+dc39c034c52d,skill-fintech,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+0c5752ac10f2,skill-node,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+0c5752ac10f2,skill-fintech,4 Advanced,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+0c5752ac10f2,skill-react,2 Guided,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+2d6842244d9a,skill-node,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+2d6842244d9a,skill-postgres,2 Guided,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+39ca5d2c3c1b,skill-fintech,4 Advanced,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+39ca5d2c3c1b,skill-aws,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+0a2d6e391fa3,skill-ts,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+0a2d6e391fa3,skill-python,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+8804dfd75bae,skill-react,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+8804dfd75bae,skill-fintech,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+8804dfd75bae,skill-node,2 Guided,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+5fea760383c9,skill-node,5 Expert,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+5fea760383c9,skill-fintech,4 Advanced,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+5fea760383c9,skill-react,2 Guided,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+9d76ad396375,skill-python,4 Advanced,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+9d76ad396375,skill-tail,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+f14a89d6f1f8,skill-docker,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+f14a89d6f1f8,skill-react,2 Guided,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+b68d18ba1b7e,skill-graphql,4 Advanced,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+b68d18ba1b7e,skill-node,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+7adbc45706d5,skill-tail,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+7adbc45706d5,skill-fintech,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+be22e65c5daf,skill-node,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+be22e65c5daf,skill-fintech,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+be22e65c5daf,skill-react,2 Guided,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+2ecf3dcdd088,skill-node,5 Expert,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+2ecf3dcdd088,skill-postgres,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+ad5ec3323ada,skill-fintech,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+ad5ec3323ada,skill-aws,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+9b067b78a2be,skill-ts,5 Expert,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+9b067b78a2be,skill-python,2 Guided,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+8bcc5265e1ea,skill-postgres,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+8bcc5265e1ea,skill-docker,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+2405c86f3ba9,skill-node,5 Expert,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+2405c86f3ba9,skill-fintech,4 Advanced,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+2405c86f3ba9,skill-react,2 Guided,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+6efdcc9ad6ff,skill-react,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+6efdcc9ad6ff,skill-fintech,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+6efdcc9ad6ff,skill-node,2 Guided,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+6e92a3adee5f,skill-docker,5 Expert,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+6e92a3adee5f,skill-react,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+c52f2d3a5eb1,skill-graphql,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+c52f2d3a5eb1,skill-node,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+2f318895d190,skill-tail,5 Expert,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+2f318895d190,skill-fintech,2 Guided,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+a9c203e5b014,skill-node,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+a9c203e5b014,skill-fintech,4 Advanced,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+a9c203e5b014,skill-react,2 Guided,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+28d3e2f365b3,skill-node,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+28d3e2f365b3,skill-postgres,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+e8d7eb8743a4,skill-react,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+e8d7eb8743a4,skill-fintech,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+e8d7eb8743a4,skill-node,2 Guided,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+fca4eea35464,skill-ts,5 Expert,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+fca4eea35464,skill-python,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+d010879cdb4f,skill-postgres,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+d010879cdb4f,skill-docker,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+450163ec82af,skill-node,5 Expert,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+450163ec82af,skill-fintech,4 Advanced,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+450163ec82af,skill-react,2 Guided,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+8f6974745f72,skill-python,4 Advanced,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+8f6974745f72,skill-tail,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+75fcccf57b06,skill-docker,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+75fcccf57b06,skill-react,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+b1acf5e6feb4,skill-react,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+b1acf5e6feb4,skill-fintech,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+b1acf5e6feb4,skill-node,2 Guided,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+16a6a2c6fbd5,skill-tail,5 Expert,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+16a6a2c6fbd5,skill-fintech,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+675737e6bea6,skill-node,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+675737e6bea6,skill-fintech,4 Advanced,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+675737e6bea6,skill-react,2 Guided,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+73f05ee918ce,skill-node,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+73f05ee918ce,skill-postgres,2 Guided,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+d7468c785af1,skill-fintech,4 Advanced,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+d7468c785af1,skill-aws,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+c6ccfa915fc4,skill-ts,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+c6ccfa915fc4,skill-python,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+c38d450d8ddd,skill-react,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+c38d450d8ddd,skill-fintech,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+c38d450d8ddd,skill-node,2 Guided,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+153b17866b92,skill-node,5 Expert,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+153b17866b92,skill-fintech,4 Advanced,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+153b17866b92,skill-react,2 Guided,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+5c0360ddf6b9,skill-python,4 Advanced,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+5c0360ddf6b9,skill-tail,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+d8fa324fbef6,skill-docker,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+d8fa324fbef6,skill-react,2 Guided,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+26e49a6d8fa8,skill-graphql,4 Advanced,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+26e49a6d8fa8,skill-node,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+e87655c01e1b,skill-tail,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+e87655c01e1b,skill-fintech,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+1e7ad9a041f2,skill-node,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+1e7ad9a041f2,skill-fintech,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+1e7ad9a041f2,skill-react,2 Guided,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+41399c30d511,skill-node,5 Expert,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+41399c30d511,skill-postgres,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+f088a70195a4,skill-fintech,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+f088a70195a4,skill-aws,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+d63f81d29bcf,skill-ts,5 Expert,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+d63f81d29bcf,skill-python,2 Guided,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+d20821158c7a,skill-postgres,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+d20821158c7a,skill-docker,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+2f2ac25361a1,skill-node,5 Expert,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+2f2ac25361a1,skill-fintech,4 Advanced,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+2f2ac25361a1,skill-react,2 Guided,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+cd5218189a38,skill-react,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+cd5218189a38,skill-fintech,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+cd5218189a38,skill-node,2 Guided,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+db5cf6d4ffb8,skill-docker,5 Expert,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+db5cf6d4ffb8,skill-react,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+5befe5c057b1,skill-graphql,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+5befe5c057b1,skill-node,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+091e7f22c7b1,skill-tail,5 Expert,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+091e7f22c7b1,skill-fintech,2 Guided,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+4879007d542f,skill-node,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+4879007d542f,skill-fintech,4 Advanced,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+4879007d542f,skill-react,2 Guided,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+4c2302c067bd,skill-node,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+4c2302c067bd,skill-postgres,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+3cecfe85fa29,skill-react,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+3cecfe85fa29,skill-fintech,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+3cecfe85fa29,skill-node,2 Guided,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+0725236852a2,skill-ts,5 Expert,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+0725236852a2,skill-python,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+9a64e01730ee,skill-postgres,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+9a64e01730ee,skill-docker,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+52d35711bffa,skill-node,5 Expert,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+52d35711bffa,skill-fintech,4 Advanced,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+52d35711bffa,skill-react,2 Guided,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+89e359f61340,skill-python,4 Advanced,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+89e359f61340,skill-tail,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+c7a53701d94c,skill-docker,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+c7a53701d94c,skill-react,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+773168352158,skill-react,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+773168352158,skill-fintech,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+773168352158,skill-node,2 Guided,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+f13aba493663,skill-tail,5 Expert,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+f13aba493663,skill-fintech,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+caeaeac6f8f4,skill-node,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+caeaeac6f8f4,skill-fintech,4 Advanced,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+caeaeac6f8f4,skill-react,2 Guided,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+39e87a25dd7c,skill-node,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+39e87a25dd7c,skill-postgres,2 Guided,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+bf5dbe1a1931,skill-fintech,4 Advanced,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+bf5dbe1a1931,skill-aws,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+e47f2d4bb7a2,skill-ts,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+e47f2d4bb7a2,skill-python,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+5e7c00bf7d7e,skill-react,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+5e7c00bf7d7e,skill-fintech,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+5e7c00bf7d7e,skill-node,2 Guided,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+8e698ed76e10,skill-node,5 Expert,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+8e698ed76e10,skill-fintech,4 Advanced,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+8e698ed76e10,skill-react,2 Guided,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+846b9ba40d05,skill-python,4 Advanced,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+846b9ba40d05,skill-tail,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+369fcfb6c6f3,skill-docker,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+369fcfb6c6f3,skill-react,2 Guided,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+7dfed82e8c01,skill-graphql,4 Advanced,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+7dfed82e8c01,skill-node,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+974137b212b4,skill-tail,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+974137b212b4,skill-fintech,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+3911979ff49d,skill-node,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+3911979ff49d,skill-fintech,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+3911979ff49d,skill-react,2 Guided,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+b48d8a6e3430,skill-node,5 Expert,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+b48d8a6e3430,skill-postgres,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+029cb0b01df9,skill-fintech,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+029cb0b01df9,skill-aws,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+303277356c5c,skill-ts,5 Expert,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+303277356c5c,skill-python,2 Guided,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+95889c212525,skill-postgres,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+95889c212525,skill-docker,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+461e69fd23b7,skill-node,5 Expert,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+461e69fd23b7,skill-fintech,4 Advanced,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+461e69fd23b7,skill-react,2 Guided,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+60e537645fb4,skill-react,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+60e537645fb4,skill-fintech,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+60e537645fb4,skill-node,2 Guided,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+c90c270baad4,skill-docker,5 Expert,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+c90c270baad4,skill-react,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+3d5fd25e67d5,skill-graphql,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+3d5fd25e67d5,skill-node,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+655425dd98da,skill-tail,5 Expert,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+655425dd98da,skill-fintech,2 Guided,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+c9f384dd8978,skill-node,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+c9f384dd8978,skill-fintech,4 Advanced,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+c9f384dd8978,skill-react,2 Guided,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+4c231f405f09,skill-node,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+4c231f405f09,skill-postgres,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+1e6e5ddf72e4,skill-react,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+1e6e5ddf72e4,skill-fintech,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+1e6e5ddf72e4,skill-node,2 Guided,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+fc428ff4c532,skill-ts,5 Expert,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+fc428ff4c532,skill-python,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+69ca18d94b63,skill-postgres,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+69ca18d94b63,skill-docker,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+0d8a85e0fef5,skill-node,5 Expert,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+0d8a85e0fef5,skill-fintech,4 Advanced,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+0d8a85e0fef5,skill-react,2 Guided,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+89068149f0b6,skill-python,4 Advanced,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+89068149f0b6,skill-tail,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+5d7630d2ec90,skill-docker,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+5d7630d2ec90,skill-react,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+7b8efd2f4236,skill-react,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+7b8efd2f4236,skill-fintech,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+7b8efd2f4236,skill-node,2 Guided,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+6012d3a4f683,skill-tail,5 Expert,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+6012d3a4f683,skill-fintech,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+39475164d398,skill-node,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+39475164d398,skill-fintech,4 Advanced,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+39475164d398,skill-react,2 Guided,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+fd26a635e8f7,skill-node,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+fd26a635e8f7,skill-postgres,2 Guided,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+9188a01aa6f0,skill-fintech,4 Advanced,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+9188a01aa6f0,skill-aws,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+a3503d4736e8,skill-ts,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+a3503d4736e8,skill-python,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+c4acc30514be,skill-react,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+c4acc30514be,skill-fintech,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+c4acc30514be,skill-node,2 Guided,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+a4326f8f66e1,skill-node,5 Expert,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+a4326f8f66e1,skill-fintech,4 Advanced,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+a4326f8f66e1,skill-react,2 Guided,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+8f521ed49dcb,skill-python,4 Advanced,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+8f521ed49dcb,skill-tail,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+21fc534ac970,skill-docker,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+21fc534ac970,skill-react,2 Guided,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+3169f49a385c,skill-graphql,4 Advanced,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+3169f49a385c,skill-node,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+d50cda2323c2,skill-tail,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+d50cda2323c2,skill-fintech,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+23fab5aa7acf,skill-node,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+23fab5aa7acf,skill-fintech,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+23fab5aa7acf,skill-react,2 Guided,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+6ac4616c648a,skill-node,5 Expert,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+6ac4616c648a,skill-postgres,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+c7430a71cac0,skill-fintech,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+c7430a71cac0,skill-aws,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+5b987525d7d8,skill-ts,5 Expert,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+5b987525d7d8,skill-python,2 Guided,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+29d39550ab09,skill-postgres,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+29d39550ab09,skill-docker,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+0cb4ebef2017,skill-node,5 Expert,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+0cb4ebef2017,skill-fintech,4 Advanced,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+0cb4ebef2017,skill-react,2 Guided,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+4db8e6fb178f,skill-react,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+4db8e6fb178f,skill-fintech,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+4db8e6fb178f,skill-node,2 Guided,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+0d40620bb0bd,skill-docker,5 Expert,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+0d40620bb0bd,skill-react,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+69e9f94ef856,skill-graphql,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+69e9f94ef856,skill-node,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+5942ad6f90f3,skill-tail,5 Expert,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+5942ad6f90f3,skill-fintech,2 Guided,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+9666c41d10ac,skill-node,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+9666c41d10ac,skill-fintech,4 Advanced,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+9666c41d10ac,skill-react,2 Guided,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+cdf98b1e3115,skill-node,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+cdf98b1e3115,skill-postgres,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+3b6f22aecb73,skill-react,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+3b6f22aecb73,skill-fintech,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+3b6f22aecb73,skill-node,2 Guided,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+17c0faa20544,skill-ts,5 Expert,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+17c0faa20544,skill-python,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+c612d57e821e,skill-postgres,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+c612d57e821e,skill-docker,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+4a55c0ca199b,skill-node,5 Expert,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+4a55c0ca199b,skill-fintech,4 Advanced,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+4a55c0ca199b,skill-react,2 Guided,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+68242b518736,skill-python,4 Advanced,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+68242b518736,skill-tail,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+85c7851e9abc,skill-docker,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+85c7851e9abc,skill-react,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+142129f19534,skill-react,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+142129f19534,skill-fintech,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+142129f19534,skill-node,2 Guided,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+568029cbf967,skill-tail,5 Expert,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+568029cbf967,skill-fintech,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+b4c9cd4d14d2,skill-node,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+b4c9cd4d14d2,skill-fintech,4 Advanced,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+b4c9cd4d14d2,skill-react,2 Guided,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+69ddd8b6e7cd,skill-node,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+69ddd8b6e7cd,skill-postgres,2 Guided,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+4549a1b21988,skill-fintech,4 Advanced,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+4549a1b21988,skill-aws,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+ce5d31bd2a1e,skill-ts,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+ce5d31bd2a1e,skill-python,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+db17a75f6ff8,skill-react,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+db17a75f6ff8,skill-fintech,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+db17a75f6ff8,skill-node,2 Guided,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+5e732d7a412a,skill-node,5 Expert,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+5e732d7a412a,skill-fintech,4 Advanced,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+5e732d7a412a,skill-react,2 Guided,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+ce83e503224a,skill-python,4 Advanced,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+ce83e503224a,skill-tail,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+79d4662e185d,skill-docker,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+79d4662e185d,skill-react,2 Guided,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+1ba4b9de5c17,skill-graphql,4 Advanced,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+1ba4b9de5c17,skill-node,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+59543f2bc0a2,skill-tail,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+59543f2bc0a2,skill-fintech,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+d99e1abf3812,skill-node,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+d99e1abf3812,skill-fintech,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+d99e1abf3812,skill-react,2 Guided,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+6c71807c7af6,skill-node,5 Expert,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+6c71807c7af6,skill-postgres,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+0faee2c8cf65,skill-fintech,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+0faee2c8cf65,skill-aws,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+bc7086dabb34,skill-ts,5 Expert,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+bc7086dabb34,skill-python,2 Guided,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+f3d2957583f0,skill-postgres,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+f3d2957583f0,skill-docker,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+1ad7286f63d4,skill-node,5 Expert,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+1ad7286f63d4,skill-fintech,4 Advanced,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+1ad7286f63d4,skill-react,2 Guided,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+5fefe89db4f4,skill-react,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+5fefe89db4f4,skill-fintech,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+5fefe89db4f4,skill-node,2 Guided,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+69dd09095ce6,skill-docker,5 Expert,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+69dd09095ce6,skill-react,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+73eeac9a364b,skill-graphql,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+73eeac9a364b,skill-node,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+0ab8567e385c,skill-tail,5 Expert,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+0ab8567e385c,skill-fintech,2 Guided,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+e6e3e0c1e566,skill-node,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+e6e3e0c1e566,skill-fintech,4 Advanced,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+e6e3e0c1e566,skill-react,2 Guided,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+556ebcf98400,skill-node,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+556ebcf98400,skill-postgres,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+7dfefe1149cb,skill-react,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+7dfefe1149cb,skill-fintech,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+7dfefe1149cb,skill-node,2 Guided,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+c2842b636094,skill-ts,5 Expert,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+c2842b636094,skill-python,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+0ff195560f12,skill-postgres,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+0ff195560f12,skill-docker,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+452987b953f2,skill-node,5 Expert,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+452987b953f2,skill-fintech,4 Advanced,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+452987b953f2,skill-react,2 Guided,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+42a3c0617ecb,skill-python,4 Advanced,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+42a3c0617ecb,skill-tail,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+869cbccdde84,skill-docker,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+869cbccdde84,skill-react,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+baf4b64c2944,skill-react,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+baf4b64c2944,skill-fintech,4 Advanced,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+baf4b64c2944,skill-node,2 Guided,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+66f90453c8b4,skill-tail,5 Expert,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+66f90453c8b4,skill-fintech,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+a66bfda501a3,skill-node,5 Expert,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+a66bfda501a3,skill-fintech,4 Advanced,1 Aware,2.6,Accumulated 2.6 points with recency decay qualifying for Level 1 (Aware)
+a66bfda501a3,skill-react,2 Guided,1 Aware,2.0,Accumulated 2.0 points with recency decay qualifying for Level 1 (Aware)
+3ca419672b4c,skill-postgres,1 Aware,1 Aware,2.0,Points 2.0 aligns with 1 Aware threshold
+3ca419672b4c,skill-docker,1 Aware,1 Aware,2.0,Points 2.0 aligns with 1 Aware threshold
+3ca419672b4c,skill-python,1 Aware,1 Aware,2.0,Points 2.0 aligns with 1 Aware threshold
+3ca419672b4c,skill-aws,2 Guided,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+5fc8a350030b,skill-fintech,5 Expert,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+19760c548708,skill-react,4 Advanced,1 Aware,2.0,Self-declared claim capped at Level 1 (Aware) without evidence
+b25fcf4275b3,skill-react,4 Advanced,2 Guided,4.8,Accumulated 4.8 points with recency decay qualifying for Level 2 (Guided)
+b25fcf4275b3,skill-node,4 Advanced,1 Aware,2.3,Accumulated 2.3 points with recency decay qualifying for Level 1 (Aware)
+b25fcf4275b3,skill-fintech,5 Expert,2 Guided,5.7,Accumulated 5.7 points with recency decay qualifying for Level 2 (Guided)

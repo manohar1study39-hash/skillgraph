@@ -1,0 +1,2 @@
+application_id,opportunity_id,opportunity_type,employee_id,employee_name,note,hours_per_week,applied_at,status
+"app-emp-p6-1-1791802358129","proj-p6-1","Project","emp-p6-1","Alice Chen","Ready to support payments architecture","10.0","2026-10-12","Accepted"

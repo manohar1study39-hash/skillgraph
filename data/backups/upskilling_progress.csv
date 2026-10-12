@@ -1,0 +1,30 @@
+id,employee_id,role_id,resource_id,status,progress_percent,hours_logged,completion_proof_url,approval_status,approval_note,updated_at,deleted_at,version
+1,emp-3,role-fintech-app-lead,res-1,In progress,45.0,7.2,,Pending,,2026-10-08 16:56:46.176490,,1
+2,emp-3,role-fintech-app-lead,res-7,Not started,0.0,0.0,,Pending,,2026-10-08 16:56:46.176490,,1
+3,emp-741237,role-fintech-app-lead,res-7,Done,100.0,16.0,,Approved,,2026-10-08 16:56:46.176490,,1
+4,emp-741237,role-fintech-app-lead,res-3,Done,100.0,16.0,,Approved,,2026-10-08 16:56:46.176490,,1
+5,emp-741237,role-fintech-app-lead,res-6,Done,100.0,16.0,,Approved,,2026-10-08 16:56:46.176490,,1
+6,emp-741237,role-fintech-app-lead,res-2,Done,100.0,16.0,,Approved,,2026-10-08 16:56:46.176490,,1
+7,emp-741237,role-fintech-app-lead,res-8,Done,100.0,16.0,,Approved,,2026-10-08 16:56:46.176490,,1
+8,emp-741237,role-cloud-sec,res-4,Done,100.0,16.0,,Approved,,2026-10-08 16:56:46.176490,,1
+9,emp-1,role-ai-analytics,res-3,Done,100.0,4.0,https://www.coursera.org/account/accomplishments/verify/ABC123,Approved,,2026-10-11 04:27:47.124701,,3
+10,emp-1,role-fintech-app-lead,res-6,Done,100.0,16.0,,Approved,,2026-10-08 16:56:46.176490,,1
+11,emp-1,role-fintech-app-lead,res-2,Done,100.0,16.0,,Approved,,2026-10-08 16:56:46.176490,,1
+12,emp-1,role-fintech-app-lead,res-8,Done,100.0,16.0,,Approved,,2026-10-08 16:56:46.176490,,1
+13,emp-1,role-fintech-app-lead,res-1,Not started,0.0,22.4,,Pending,completed,2026-10-12 06:05:06.836761,,7
+16,emp-1,role-fintech-app-lead,res-4,Not started,0.0,0.0,,Pending,,2026-10-09 06:12:52.614639,,1
+17,emp-1,role-fintech-app-lead,res-5,Done,100.0,80.0,https://verify.skillgraph.demo/cert/python-streaming-cert,Approved,Capstone verified against internal engineering standards.,2026-10-10 06:06:01.591211,,26
+18,emp-1,role-fintech-app-lead,res-7,Not started,0.0,0.0,,Pending,,2026-10-09 06:12:55.928509,,1
+19,emp-1,role-fintech-app-lead,res-9478,Not started,0.0,0.0,,Pending,,2026-10-11 13:05:40.462503,,1
+20,emp-user-hr-,role-fintech-app-lead,res-7,Awaiting approval,31.2,5.0,https://verify.skillgraph.demo/completion,Pending,Completed via progress updater,2026-10-11 16:38:21.428683,,3
+21,emp-user-hr-,role-fintech-app-lead,res-1,In progress,6.2,1.0,,Pending,,2026-10-11 16:42:15.165170,,2
+22,emp-16,role-fintech-app-lead,res-7,In progress,25.0,4.0,,Pending,,2026-10-11 17:11:37.626172,,1
+23,emp-1,role-fintech-app-lead,res-1791767291,In progress,15.0,2.4,,Pending,,2026-10-12 06:38:12.002164,,1
+24,emp-2,role-fintech-app-lead,res-1791767292,Done,100.0,16.0,,Approved,,2026-10-12 06:38:12.029279,,1
+25,emp-1,role-fintech-app-lead,res-1791767559,In progress,15.0,2.4,,Pending,,2026-10-12 06:42:39.073509,,1
+26,emp-1,role-fintech-app-lead,res-1791767758,In progress,15.0,2.4,,Pending,,2026-10-12 06:45:58.946514,,1
+27,emp-2,role-fintech-app-lead,res-1791767759,Done,100.0,16.0,,Approved,,2026-10-12 06:45:59.032246,,1
+28,emp-1,role-cloud-sec,res-4005,Not started,0.0,0.0,,Pending,,2026-10-12 10:21:09.895082,,1
+29,emp-1,role-fintech-app-lead,res-1791782268,In progress,15.0,2.4,,Pending,,2026-10-12 10:47:48.765074,,1
+30,emp-1,role-fintech-app-lead,res-1791802246081-7749d0,In progress,15.0,2.4,,Pending,,2026-10-12 10:50:46.210986,,1
+31,emp-2,role-fintech-app-lead,res-1791802246231-185013,Done,100.0,16.0,,Approved,,2026-10-12 10:50:46.253239,,1

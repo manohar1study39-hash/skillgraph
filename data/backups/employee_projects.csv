@@ -1,0 +1,7 @@
+employee_id,project_id,role,contribution_summary
+"emp-2","proj-105","Lead Frontend Engineer","Created design system tokens and component library."
+"emp-3","proj-102","Backend Specialist","Designed ISO 20022 banking API adapters."
+"emp-4","proj-104","Cloud Lead","Hardened K8s pod security and AWS KMS keys."
+"emp-969374","proj-9452","Lead Security Auditor","Leading Zero-Trust infrastructure verification"
+"emp-1","proj-101","Lead Frontend Architect","Architected high-performance payment checkout interface with React 18 and state caching."
+"emp-1","proj-102","Full Stack Contributor","Accepted via marketplace application for Global Payment Gateway Microservice."

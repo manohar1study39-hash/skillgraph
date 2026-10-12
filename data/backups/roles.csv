@@ -1,0 +1,7 @@
+role_id,role_title,department,priority,status,min_availability_percent
+"role-fintech-app-lead","Lead Architect: NextGen React + Node.js Fintech App","Engineering","Priority","Open","70"
+"role-ai-analytics","Senior Engineer: Real-Time Financial Analytics Portal","Data & Analytics","Priority","Open","50"
+"role-cloud-sec","Cloud Security Architect: Payment Vault Hardening","Information Security","Normal","Open","60"
+"role-frontend-lead","Staff Frontend Engineer: Design System Core","Product","Normal","Open","50"
+"role-proj-9452","Zero-Trust Vault Protocol Specialist","Information Security","Priority","Open","40"
+"role-proj-7945","ai powered Specialist","Data & AI","Normal","Open","40"

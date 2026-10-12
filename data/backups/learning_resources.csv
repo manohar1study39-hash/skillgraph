@@ -1,0 +1,11 @@
+resource_id,skill_id,title,provider,type,duration_weeks,target_level,mentor_employee_id
+"res-1","skill-react","Advanced React 18 & State Hygiene Masterclass","Coursera","course","2","Advanced","emp-2"
+"res-2","skill-node","High-Scale Node.js Microservices Architecture","Udemy","course","3","Expert","emp-1"
+"res-3","skill-fintech","PCI-DSS Compliance & Payment Gateway Protocol","Internal Academy","cert","2","Advanced","emp-1"
+"res-4","skill-aws","AWS Cloud Security & Key Vault Rotation","AWS Training","cert","3","Expert","emp-4"
+"res-5","skill-python","Streaming Data Pipelines with Python & PyTorch","DataCamp","course","2","Advanced",""
+"res-6","skill-react","Build a production checkout interface","Internal Project","project","3","Expert","emp-2"
+"res-7","skill-node","Payments service pairing","Engineering Mentorship","mentor","2","Expert","emp-1"
+"res-8","skill-fintech","PCI DSS assessor certification","Internal Academy","cert","2","Expert","emp-1"
+"res-9478","skill-aws","Zero-Trust Cloud Architecture Workshop","Internal Academy","course","3","Expert","emp-4"
+"res-4005","skill-docker","microservices","Internal Academy","project","2","Advanced",""

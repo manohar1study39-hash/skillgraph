@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 222 48" fill="none">
+  <rect width="48" height="48" rx="12" fill="#111111"/>
+  <path d="M14 14H34L14 34H34" stroke="#FFFFFF" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="14" cy="14" r="3.5" fill="#FFFFFF"/>
+  <circle cx="34" cy="14" r="3.5" fill="#FFFFFF"/>
+  <circle cx="14" cy="34" r="3.5" fill="#FFFFFF"/>
+  <circle cx="34" cy="34" r="3.5" fill="#EFE8FD"/>
+  <text x="60" y="31" fill="#111111" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="600" letter-spacing="-0.4">SkillGraph</text>
+</svg>

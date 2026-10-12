@@ -1,0 +1,11 @@
+skill_id,skill_name,category,domain,synonyms,related_skill_ids
+"skill-react","React","Frontend & UI Frameworks","Web Applications","React.js|ReactJS","skill-ts|skill-tail"
+"skill-node","Node.js","Backend & Microservices","Fintech Core Services","Node|NodeJS","skill-postgres|skill-graphql"
+"skill-fintech","Fintech & Payment Security","Fintech & Payment Security","Financial Services","Payment Security|PCI-DSS|Fintech","skill-node|skill-postgres"
+"skill-ts","TypeScript","Frontend & UI Frameworks","Enterprise Codebases","TS","skill-react|skill-node"
+"skill-postgres","PostgreSQL","Backend & Microservices","Database & Storage","Postgres|Postgre","skill-node|skill-python"
+"skill-aws","AWS Cloud","Cloud Architecture & DevOps","DevOps & Infra","AWS|Amazon Web Services","skill-docker"
+"skill-python","Python","Data & AI","Machine Learning","Py","skill-postgres"
+"skill-docker","Docker & Kubernetes","Cloud Architecture & DevOps","Containerization","Docker|Kubernetes|K8s","skill-aws"
+"skill-graphql","GraphQL","Backend & Microservices","API Integration","Apollo GraphQL","skill-node|skill-react"
+"skill-tail","Tailwind CSS","Frontend & UI Frameworks","UI Design","Tailwind","skill-react"
