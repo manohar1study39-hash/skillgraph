@@ -97,7 +97,8 @@ function csvApi(): Plugin {
     });
     sock.on('error', () => {
       console.log('[SkillGraph] FastAPI backend is offline on port 8000. Launching Python uvicorn backend...');
-      backendProc = spawn('python', ['-m', 'uvicorn', 'backend.api:app', '--host', '127.0.0.1', '--port', '8000'], {
+      const pythonCmd = process.platform === 'win32' ? 'python' : (fs.existsSync('/venv/bin/python') ? '/venv/bin/python' : 'python3');
+      backendProc = spawn(pythonCmd, ['-m', 'uvicorn', 'backend.api:app', '--host', '127.0.0.1', '--port', '8000'], {
         cwd: process.cwd(),
         stdio: 'inherit',
         shell: true,
@@ -991,5 +992,9 @@ export default defineConfig(({ mode }) => {
   process.env.SKILLGRAPH_HR_INVITE_CODE ||= env.SKILLGRAPH_HR_INVITE_CODE || 'skillgraph-hr-admin-2026';
   process.env.SKILLGRAPH_EMPLOYEE_INVITE_CODE ||= env.SKILLGRAPH_EMPLOYEE_INVITE_CODE || 'skillgraph-employee-2026';
   if (!process.env.SKILLGRAPH_SESSION_SECRET) throw new Error('Set SKILLGRAPH_SESSION_SECRET in .env before starting SkillGraph.');
-  return { plugins: [react(), csvApi()], server: { host: '127.0.0.1', port: 3000, open: true } };
+  return {
+    plugins: [react(), csvApi()],
+    server: { host: '0.0.0.0', port: 3000, open: false, allowedHosts: true },
+    preview: { host: '0.0.0.0', port: 3000, allowedHosts: true }
+  };
 });
